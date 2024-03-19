@@ -1,8 +1,23 @@
-# React + Vite
+# Chat Uygulaması Firebase Projesi
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bu proje, Firebase kullanarak oluşturulan bir chat uygulamasıdır. Firebase, gerçek zamanlı veritabanı ve kullanıcı kimlik doğrulama gibi hizmetler sağlayarak geliştiricilere kolaylık sunar. Bu uygulama, kullanıcıların anlık olarak iletişim kurabileceği bir platform sağlar.
 
-Currently, two official plugins are available:
+## Özellikler
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Kullanıcı kimlik doğrulaması ve kayıt olma
+- Gerçek zamanlı ileti gönderme ve alma
+- Kullanıcı profilleri 
+
+
+## Kullanılan Teknolojiler
+
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase Storage
+
+## Canlı
+https://chat-app-firebase-peach.vercel.app/
+
+## Ekran Görüntüsü
+![Chat-App-ezgif com-speed](https://github.com/aydincansu1/Chat-App-Firbase/assets/134061696/627ad39f-8bb3-47d9-865e-ee1cc99aad49)
+
