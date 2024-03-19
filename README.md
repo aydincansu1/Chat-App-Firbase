@@ -16,7 +16,7 @@ Bu proje, Firebase kullanarak oluşturulan bir chat uygulamasıdır. Firebase, g
 - Firebase Storage
 
 ## Canlı
-[https://chat-app-firebase-peach.vercel.app/](https://chat-app-firbase-5ifrjft95-aydincansu1s-projects.vercel.app/)
+https://chat-app-firbase.vercel.app/
 
 ## Ekran Görüntüsü
 ![Chat-App-ezgif com-speed](https://github.com/aydincansu1/Chat-App-Firbase/assets/134061696/627ad39f-8bb3-47d9-865e-ee1cc99aad49)
